@@ -70,7 +70,7 @@ The **SPAI Human Body Line Art Generator** is a cutting-edge AI platform that tr
 
 ### ⚙️ 适配的专业 AI 引擎
 *   **Nano Banana Pro**: 业内最火模型，适合标准线稿风格制作
-*   **Seedream 5 (豆包)**: 针对人像比例和复杂动态进行了深度优化。
+*   **Seedream 5 (豆包)**: 针对人像比例和复杂动态进行了深度优化
 *   **Flux-Kontext**: 提供专业级的手绘素描质感。
 
 ### ❓ 常见问题 (FAQ)
