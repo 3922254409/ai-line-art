@@ -87,7 +87,7 @@ The **SPAI Human Body Line Art Generator** is a cutting-edge AI platform that tr
 
 <details>
 <summary><strong>我上传的照片隐私安全吗？</strong></summary>
-<p>非常安全。我们采用严格的加密技术，照片仅用于当次 AI 计算，任务完成后会自动从服务器清除，保护您的隐私。</p>
+<p>非常安全。我们采用严格的加密技术，照片仅用于当次 AI 计算，任务完成后会自动从服务器清除，保护您的隐私</p>
 </details>
 
 ---
