@@ -50,7 +50,7 @@ The **SPAI Human Body Line Art Generator** is a cutting-edge AI platform that tr
 | ![结构素描示例](https://img.sipingseo.com/file/human-body-line-art/8YBFBddk.webp) | ![肌肉结构展示](https://img.sipingseo.com/file/human-body-line-art/txZzo7sw.webp) |
 
 #### 2. 轮廓勾勒 (Contour Outline)
-简洁优雅的线条提取，去除内部细节，最适合时尚插画与品牌视觉设计。
+简洁优雅的线条提取，去除内部细节，最适合时尚插画与品牌视觉设计
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![轮廓线稿](https://img.sipingseo.com/file/human-body-line-art/fckIYgED.webp) | ![舞蹈轮廓](https://img.sipingseo.com/file/human-body-line-art/Klv1TnYF.webp) |
