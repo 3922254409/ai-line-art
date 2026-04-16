@@ -77,7 +77,7 @@ The **SPAI Human Body Line Art Generator** is a cutting-edge AI platform that tr
 
 <details>
 <summary><strong>生成的人体线稿可以商用吗？</strong></summary>
-<p>生成的人体线稿可广泛用于个人学习、服装设计草图及插画参考。商业授权建议根据生成的原创性及具体应用场景进行评估。</p>
+<p>生成的人体线稿可广泛用于个人学习、服装设计草图及插画参考。商业授权建议根据生成的原创性及具体应用场景进行评估</p>
 </details>
 
 <details>
