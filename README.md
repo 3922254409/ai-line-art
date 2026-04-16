@@ -5,7 +5,7 @@
 [![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://www.sipingseo.com/zh/line-art-generator/human-body-line-art)
 [![User Rating](https://img.shields.io/badge/rating-4.9%2F5-brightgreen)](https://www.sipingseo.com/zh/line-art-generator/human-body-line-art)
 
-**SPAI 人体线稿助理是一款基于人工智能技术的在线创作工具。无论您是服装设计师、插画师还是美术爱好者，只需上传照片或输入描述，AI 即可在 20 秒内为您提取出精准、专业的人体结构线稿。支持结构素描、轮廓勾勒、动态速写及极简线条等多种艺术风格。**
+**SPAI 人体线稿助理是一款基于人工智能技术的在线创作工具。无论您是服装设计师、插画师还是美术爱好者，只需上传照片或输入描述，AI 即可在 20 秒内为您提取出精准、专业的人体结构线稿。支持结构素描、轮廓勾勒、动态速写及极简线条等多种艺术风格**
 
 ## ➡️ **[立即开始生成人体线稿 | Generate Human Line Art Now](https://www.sipingseo.com/zh/line-art-generator/human-body-line-art)**
 
