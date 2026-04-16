@@ -63,7 +63,7 @@ The **SPAI Human Body Line Art Generator** is a cutting-edge AI platform that tr
 
 ### 🛠️ 四步创建您的人体线稿 (Simple 4-Step Process)
 
-1.  **上传照片 (必选)**: 导入一张人体照片，确保轮廓分明（支持 JPG/PNG/WebP）。
+1.  **上传照片 (必选)**: 导入一张人体照片，确保轮廓分明（支持 JPG/PNG/WebP）
 2.  **撰写线稿描述**: 输入您的详细风格需求。*例如：“女性站姿，侧面轮廓，极简线条，适合服装草图。”*
 3.  **选择模型与尺寸**: 根据需求选择 `line art pro` (标准) 或 `结构素描大师` (专业)。
 4.  **生成并下载**: 点击“生成人体线稿”，满意后免费下载高清 PNG 透明底稿。
