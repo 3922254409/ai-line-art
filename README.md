@@ -22,7 +22,7 @@ The **SPAI Human Body Line Art Generator** is a cutting-edge AI platform that tr
 *   **🎭 Diverse Styles:** Choose from **Structural Sketch**, **Contour Outline**, **Gesture Drawing**, and **Minimalist Art**
 *   **⚡ High-Speed Rendering:** Get high-resolution results in 20-30 seconds
 *   **📐 Customizable Output:** Supports various aspect ratios (1:1, 4:3, 9:16) and HD downloads
-*   **💰 100% Free:** No registration or payment required. Access premium AI sketching tools online.
+*   **💰 100% Free:** No registration or payment required. Access premium AI sketching tools online
 
 **[➡️ Create Your Professional Body Sketch for Free](https://www.sipingseo.com/zh/line-art-generator/human-body-line-art)**
 
