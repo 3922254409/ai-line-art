@@ -44,7 +44,7 @@ The **SPAI Human Body Line Art Generator** is a cutting-edge AI platform that tr
 我们的 AI 模型经过海量美术数据训练，能够驾驭多种人体表现技法：
 
 #### 1. 结构素描 (Structural Sketch)
-精准呈现人体骨骼与肌肉的空间关系，是服装设计草图的理想基准。
+精准呈现人体骨骼与肌肉的空间关系，是服装设计草图的理想基准
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![结构素描示例](https://img.sipingseo.com/file/human-body-line-art/8YBFBddk.webp) | ![肌肉结构展示](https://img.sipingseo.com/file/human-body-line-art/txZzo7sw.webp) |
