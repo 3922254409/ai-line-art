@@ -82,7 +82,7 @@ The **SPAI Human Body Line Art Generator** is a cutting-edge AI platform that tr
 
 <details>
 <summary><strong>为什么 AI 提取的线条比普通滤镜更清晰？</strong></summary>
-<p>AI 不仅仅是边缘检测，它能通过深度学习理解人体解剖结构，主动优化线条的闭合性与粗细对比，呈现出“人画”而非“滤镜”的效果。</p>
+<p>AI 不仅仅是边缘检测，它能通过深度学习理解人体解剖结构，主动优化线条的闭合性与粗细对比，呈现出“人画”而非“滤镜”的效果</p>
 </details>
 
 <details>
