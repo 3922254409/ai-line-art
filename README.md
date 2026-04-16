@@ -56,7 +56,7 @@ The **SPAI Human Body Line Art Generator** is a cutting-edge AI platform that tr
 | ![轮廓线稿](https://img.sipingseo.com/file/human-body-line-art/fckIYgED.webp) | ![舞蹈轮廓](https://img.sipingseo.com/file/human-body-line-art/Klv1TnYF.webp) |
 
 #### 3. 动态速写 (Gesture Drawing)
-捕捉人体运动瞬间的节奏感与张力，线条生动，适合追求表现力的艺术创作。
+捕捉人体运动瞬间的节奏感与张力，线条生动，适合追求表现力的艺术创作
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![动态速写](https://img.sipingseo.com/file/human-body-line-art/3LZeGemD.webp) | ![旋转动态](https://img.sipingseo.com/file/human-body-line-art/PZtKogG3.webp) |
