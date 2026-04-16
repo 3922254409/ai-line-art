@@ -18,7 +18,7 @@
 The **SPAI Human Body Line Art Generator** is a cutting-edge AI platform that transforms human photos into professional-grade sketches. By utilizing advanced deep learning models, it accurately captures skeletal structures, muscle proportions, and dynamic poses, making it an essential tool for fashion design, character illustration, and anatomy study
 
 ### Key Features
-*   **✨ Photo-to-Sketch:** Instantly convert any human photo into a clean line drawing.
+*   **✨ Photo-to-Sketch:** Instantly convert any human photo into a clean line drawing
 *   **🎭 Diverse Styles:** Choose from **Structural Sketch**, **Contour Outline**, **Gesture Drawing**, and **Minimalist Art**.
 *   **⚡ High-Speed Rendering:** Get high-resolution results in 20-30 seconds.
 *   **📐 Customizable Output:** Supports various aspect ratios (1:1, 4:3, 9:16) and HD downloads.
